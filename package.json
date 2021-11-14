@@ -1,0 +1,21 @@
+{
+  "name": "learning-js-data-structures",
+  "version": "1.0.0",
+  "description": "JavaScript 数组、栈、队列、链表、集合、散列表、递归、树、堆、图、排序、搜索的点滴学习与记录。",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zonghuang/learning-js-data-structures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zonghuang/learning-js-data-structures/issues"
+  },
+  "homepage": "https://github.com/zonghuang/learning-js-data-structures#readme"
+}
